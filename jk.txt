@@ -1,6 +1,6 @@
 {
   "sites": [
-  {"key":"mtv_pc_小苹果源","name":"爬虫┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/dzhuqi/TVBox/raw/master/jar/xpg.jar"},
+ {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
   {
       "key": "SPQQ",
       "name": " 🐢腾讯视频",
@@ -159,19 +159,15 @@
     }
    
   ],
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vZHpodXFpL1RWQm94L3Jhdy9tYXN0ZXIvanNvbi8yLnR4dA=="
-          ]
-        }
-      ]
-    }
-  ],
+ 	"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "./json/2.txt",
+		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		    "logo": "https://epg.112114.xyz/logo/{name}.png"
+		    }
+	],
+
   "parses": [
    
  
