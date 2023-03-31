@@ -2,7 +2,7 @@
 
   "sites": [
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
- {"key":"csp_555","name":"5️555影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/555.json"},
+ {"key":"csp_555","name":"5️555影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/json/555影视.json"},
  {
       "key": "SPQQ",
       "name": " 🐢腾讯视频",
