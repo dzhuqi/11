@@ -164,14 +164,7 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 翡翠台http://107.151.203.111:2209/135/hk.php?id=tvbfct
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
-明珠台,mitv://generationnexxxt.com:19806/257d9994803542a794790504c2cd0a8e
-壹电视新闻台,mitv://generationnexxxt.com:19806/a84b87402809424bb947aea015bd6f34
-年代新闻,mitv://generationnexxxt.com:19806/f721025fa5eb4938925ffd40f311b413
-东森新闻台,mitv://generationnexxxt.com:19806/6734343eb91244a8b6752ce896b2402f
-中天新闻台,mitv://generationnexxxt.com:19806/c88a7e7e25334800becd67d8aca62756
-民视新闻台,mitv://generationnexxxt.com:19806/64ef45a872254806bc04be427324fa36
-三立新闻台,mitv://generationnexxxt.com:19806/7109c60c1ae14727873d26cde90a38c5
-TVBS新闻台,mitv://generationnexxxt.com:19806/76f09b45977d45e2a2f24b27520f0138
+
 卫视频道,#genre#
 
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
