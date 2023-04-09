@@ -2,12 +2,7 @@
 
   "sites": [
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"drpy_js_奇珍异兽","name":"🥝官源 | 爱奇艺[js]","type":3,"api":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/js/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"📺官源 | 优酷[js]","type":3,"api":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/js/优酷.js"},
-{"key":"drpy_js_腾云驾雾","name":"🍅官源 | 腾讯[js]","type":3,"api":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"🍋官源 | 芒果[js]","type":3,"api":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/js/百忙无果.js"},
-{"key":"drpy_js_菜狗","name":"🐌官源 | 搜狗[js]","type":3,"api":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/js/菜狗.js"},
-
+ {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 
  {
       "key": "SPQQ",
@@ -352,4 +347,7 @@
   ],
   "wallpaper": "",
   "spider": "./jar/Box.jar;md5;4674DFA481F05949F2A94E8B27D8F39B"
+       //"spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/fm.jar;md5;008dbb5b68b754af12a2337810f78dc0"
+       //"spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/cc.jar;md5;cdd47c05b7bd1970b208227dc013b7ae"
+"spider":"https://gitee.com/zhahaoyi/tvbox/raw/master/jar/0329.zip"
 }
