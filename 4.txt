@@ -6,8 +6,7 @@
 {
     "sites": [ 
 
-{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/js/drpy.js"},
-//{"key":"drpy_js_酷云七七","name":"🌤影视 | 酷云七七[js]","type":3,"api":"https://gitee.com/zhahaoyi/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/zhahaoyi/tvbox/raw/master/js/酷云77.js"},
+
 {"key": "🍎","name": "🍎小苹果(爬虫)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -18,11 +17,14 @@
     ],
 
 
-       "lives":[
-{"group":"redirect","channels":[
-    {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vemhhaGFveWkvdHZib3gvcmF3L21hc3Rlci96YiUyMC96Yi50eHQ="
-    ]}]}],
+    	"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "./json/2.txt",
+		     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+             "logo":"https://epg.112114.xyz/logo/{name}.png"
+		    }
+],
      "parses": [
 
        
