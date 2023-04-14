@@ -1,8 +1,8 @@
 {
   "sites": [
  {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
- {"key":"drpy_思古影视","name":"影视|思古影视","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/思古影视.js"},
-  {"key":"drpy_布雷蓝光","name":"影视|布雷蓝光","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/布雷蓝光.js"},
+ {"key":"drpy_思古影视","name":"影视|思古影视","type":3,"api":"./api/drpy2.min.js","ext":"./js/思古影视.js"},
+  {"key":"drpy_布雷蓝光","name":"影视|布雷蓝光","type":3,"api":"./api/drpy2.min.js","ext":"./js/布雷蓝光.js"},
  
 {"key":"量子影视","name":" 🐢量子影视","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
   
