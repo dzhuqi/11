@@ -2,7 +2,7 @@
 
   "sites": [
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-   
+    {"key":"drpy_思古影视","name":"影视|思古影视","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/思古影视.js"},
 
  {
       "key": "SPQQ",
