@@ -41,24 +41,7 @@
         "其他片"
       ]
     },
-     {
-      "key": "布雷蓝光",
-      "name": "布雷蓝光",
-      "type": 1,
-      "api": "https://v.bulei.cc/index.php/vod/type/id/fyclass.html",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "电影",
-        "电视剧",
-        "日韩剧",
-        "欧美剧",
-        "港台剧",
-        "综艺",
-        "动漫"
-      ]
-    },
+     
     
    
    
@@ -351,5 +334,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "",
-  "spider": "./jar/Box.jar;md5;4674DFA481F05949F2A94E8B27D8F39B"
+  "spider": "./jar/custom_spider.jar
 }
