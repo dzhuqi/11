@@ -3,70 +3,12 @@
  {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"drpy_思古影视","name":"影视|思古影视","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/思古影视.js"},
   {"key":"drpy_布雷蓝光","name":"影视|布雷蓝光","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/布雷蓝光.js"},
-  {
-      "key": "csp_Xinsj",
-      "name": "  🦑视觉影院",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.6080dy2.com"
-    }, 
+ 
 {"key":"量子影视","name":" 🐢量子影视","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
   
 
-    {
-      "key": "SPIQY",
-      "name": " 🐢爱奇艺",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "MGT",
-      "name": " 🐢芒果TV",
-      "type": 3,
-      "api": "csp_Mgtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "youku",
-      "name": " 🐢优酷视频",
-      "type": 0,
-      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "惊悚片",
-        "犯罪片",
-        "冒险片",
-        "悬疑片",
-        "动画片",
-        "武侠片",
-        "奇幻片",
-        "少儿",
-        "其他片"
-      ]
-    },
+
+   
     {
       "key": "PPTV",
       "name": " 🐢PPTV",
@@ -100,45 +42,18 @@
       ]
     },
     {
-      "key": "csp_555电影",
-      "name": " 🐢555影视",
+      "key": "布雷蓝光",
+      "name": " 🐢布雷蓝光",
       "type": 3,
-      "api": "csp_Ys555",
+      "api": "csp_布雷蓝光",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.555dyy1.com"
+      "ext": "http://movie.bulei.cc"
     },
     
    
-    {
-      "key": "360_spider",
-      "name": " 🐢360影视",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Ysgc",
-      "name": " 🐢?影视工厂",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Lgyy",
-      "name": " 🐢蓝光影院",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.lgyy.tv"
-    },
+   
     {
       "key": "电影天堂",
       "name": " 🐢电影天堂",
