@@ -334,5 +334,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "",
-  "spider": "./jar/custom_spider.jar
+  "spider": "./jar/custom_spider.jar;
 }
