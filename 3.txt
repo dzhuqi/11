@@ -1,6 +1,6 @@
 
 {
-  "spider": "https://gitee.com/guohuowang/tvbox/blob/master/jar/custom_spider.jar",
+  "spider": "https://gitee.com/guohuowang/tvbox/raw/master/jar/custom_spider.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives":[
     {"group":"redirect",
