@@ -74,7 +74,7 @@
   	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "./json/2.txt",
+		    "url": "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHpodXFpL3BocDUvbWFzdGVyLzIudHh0",
 		     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
              "logo":"https://epg.112114.xyz/logo/{name}.png"
 		    }
