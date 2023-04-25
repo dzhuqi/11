@@ -1,3 +1,5 @@
 谷豆,#genre#
-凤凰卫视中文台,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
-凤凰卫视中文台,https://epg.pw/stream/9e3fe5f9642e7267868b40fbf117d947562cc2e9221ab020d670d1cc9bbc4800.m3u8
+凤凰资讯台,https://epg.pw/stream/d51b2b2c5d04dbc82a25641c304b46f6d003e6142f3cacf3d75b1a716fd0fc31.m3u8
+凤凰中文台,https://epg.pw/stream/3c8a5d6129ba789ef097c0162fb5929ab6d389b68bf713455802bd1e9b69e9a8.m3u8
+凤凰香港台,https://epg.pw/stream/790509dd4682810219455f02a0bca92c965c8edf4eabc6f2129184be97049b85.m3u8
+翡翠台,https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
