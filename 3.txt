@@ -74,16 +74,16 @@
    
   ],
   
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;43927c91e9c631d24057be2e400dc8a5",
-"wallpaper": "https://qiu.moe/a723",
-"lives": [{
-"name": "live",
-"type": 0,
-"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-"playerType": 1,
-"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-"logo": "https://epg.112114.xyz/logo/{name}.png"
-}],
+
+    	"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://fastly.jsdelivr.net/gh/dzhuqi/php5@master/2.txt",
+		     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+             "logo":"https://epg.112114.xyz/logo/{name}.png"
+		    }
+],
+
 
 
 
@@ -355,7 +355,7 @@
     "cms.qdwght.com"
   ],
 
-       
+   "spider":"./jar/0329.zip"     
       
 
 }
