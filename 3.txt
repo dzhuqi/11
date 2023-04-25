@@ -1,16 +1,6 @@
 
 {
-  "spider": "https://gitee.com/guohuowang/tvbox/raw/master/jar/custom_spider.jar",
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "lives":[
-    {"group":"redirect",
-    "channels":
-    [
-        {
-            "name":"redirect",
-            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-             "logo":"https://epg.112114.xyz/logo/{name}.png",
-            "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vZ3VvaHVvd2FuZy90dmJveC9yYXcvbWFzdGVyL2xpdmUudHh0"]}]}],
+ 
           
   "sites": [
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -84,6 +74,16 @@
    
   ],
   
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;43927c91e9c631d24057be2e400dc8a5",
+"wallpaper": "https://qiu.moe/a723",
+"lives": [{
+"name": "live",
+"type": 0,
+"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+"playerType": 1,
+"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+}],
 
 
   "parses": [
