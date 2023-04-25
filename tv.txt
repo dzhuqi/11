@@ -1,46 +1,16 @@
 谷豆,#genre#
-CCTV4K,http://chihomai.top:5678/gudou.php?
+凤凰卫视资讯
 
-phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D
+台,https://epg.pw/stream/feef91f40b85dafbfec7b968db0c1fc20f8fafdbbef2dfd751cfbcfd51
 
-%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=4005
-CCTV16-4K,http://chihomai.top:5678/gudou.php?
+f6ea5d.m3u8
+凤凰卫视中文
 
-phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D
+台,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb394
 
-%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=4010
-广东综艺4K,http://chihomai.top:5678/gudou.php?
+12924a.m3u8
+凤凰卫视中文
 
-phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D
+台,https://epg.pw/stream/9e3fe5f9642e7267868b40fbf117d947562cc2e9221ab020d670d1cc9b
 
-%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=GDZYHD4K_38000
-G导视高清,http://chihomai.top:5678/gudou.php?
-
-phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D
-
-%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=GHDdaoshi_7500
-翡翠台,http://chihomai.top:5678/gudou.php?
-
-phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D
-
-%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1350_4500
-明珠台,http://chihomai.top:5678/gudou.php?
-
-phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D
-
-%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1351_4500
-凤凰中文,http://chihomai.top:5678/gudou.php?
-
-phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D
-
-%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=fhzw_1500
-星空卫视,http://chihomai.top:5678/gudou.php?
-
-phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D
-
-%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=xingkong_1500
-澳亚卫视,http://chihomai.top:5678/gudou.php?
-
-phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D
-
-%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=aoya_1500
+bc4800.m3u8
