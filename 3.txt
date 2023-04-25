@@ -74,7 +74,7 @@
   	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "./json/2.txt",
+		    "url": "https://tv.5ye.cc",
 		     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
              "logo":"https://epg.112114.xyz/logo/{name}.png"
 		    }
