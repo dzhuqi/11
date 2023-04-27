@@ -1,6 +1,6 @@
 
 {
- "spider":"https://gitee.com/dzhuqi/TVBox/raw/master/jar/xiaomian.jar";
+ "spider":"./jar/xpg.jar";
           
   "sites": [
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
