@@ -355,7 +355,7 @@
     "cms.qdwght.com"
   ],
 
-   "spider":"https://gitee.com/dzhuqi/TVBox/raw/master/jar/0329.zip"     
+   "spider":"./jar/0329.zip"     
       
 
 }
